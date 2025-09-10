@@ -1,0 +1,16 @@
+# Day 01 – Linux Basics
+
+## Commands Practiced
+- `ls` → List files
+- `cd` → Change directory
+- `pwd` → Print current working directory
+- `touch file.txt` → Create file
+- `mkdir testdir` → Create directory
+- `rm file.txt` → Remove file
+- `rmdir testdir` → Remove empty directory
+
+## Mini Project
+Created a directory named `PracticeDay1` with 3 text files, then removed one file and the directory.
+
+## Screenshot
+(see screenshots folder)
